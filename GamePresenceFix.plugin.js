@@ -1,6 +1,6 @@
 /**
  * @name GamePresenceFix
- * @version 1.0.0
+ * @version 1.0.1
  * @description Correct errors that turn off game activity each time you run a discord.
  * @authorId 368688044934561792
  * @authorLink https://github.com/green1052
@@ -17,7 +17,7 @@ module.exports = class GamePresenceFix {
     }
 
     getVersion() {
-        return "1.0.0";
+        return "1.0.1";
     }
 
     getAuthor() {
