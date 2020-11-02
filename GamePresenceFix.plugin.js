@@ -4,6 +4,7 @@
  * @description Correct errors that turn off game activity each time you run a discord.
  * @authorId 368688044934561792
  * @authorLink https://github.com/green1052
+ * @source https://github.com/green1052/GamePresenceFix/blob/main/GamePresenceFix.plugin.js
  */
 
 module.exports = class GamePresenceFix {
